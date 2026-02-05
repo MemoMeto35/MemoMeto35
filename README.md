@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Metwally</h1>
 <h3 align="center">A software engineer who is passionate about AI and Machine Learning</h3>
 
-- 🔭 I’m currently working on **Natural Language processing Project**
-
 - 📫 How to reach me **ametwally439@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
